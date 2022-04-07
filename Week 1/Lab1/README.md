@@ -26,3 +26,9 @@ https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
+
+
+# Creating a Bucket using the AWS CLI
+1. I launched the AWS cloud shell using the AWS console
+2. I created a s3 bucket using the syntax $aws s3 mb s3://demo-bucket010, it gave a response of make_bucket: demo-bucket010
+3. 
