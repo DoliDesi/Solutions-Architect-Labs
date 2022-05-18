@@ -33,7 +33,8 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
  ![image](https://user-images.githubusercontent.com/94450478/169151780-1aeca3e3-758e-40b3-b406-a6b572421cc1.png)
  
  ![image](https://user-images.githubusercontent.com/94450478/169152129-f3a8e022-e70e-46b4-9f26-0e77c3935c50.png)
-
+ 
+4. I deleted both Policy and S3 bucket through the AWS console
 
 
 
