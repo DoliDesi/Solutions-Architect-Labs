@@ -44,6 +44,6 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_users-self-manage-mfa-
 4. IAM Group with EC2 full access
 
 <img src="blob:chrome-untrusted://media-app/d9a87f48-3170-46c6-aea5-c318a0d6c48a" alt="Screenshot 2022-05-23 9.57.53 PM.png"/>![image](https://user-images.githubusercontent.com/94450478/169905104-1abc2794-ab1e-4d90-b960-2ca63ccef6a7.png)
-5. <img src="blob:chrome-untrusted://media-app/afe3d24b-d2b9-4c62-87c0-256bf76499d8" alt="Screenshot 2022-05-23 10.15.43 PM.png"/>![image](https://user-images.githubusercontent.com/94450478/169907398-e42f2b98-32bb-477f-b939-9252b0c50d81.png)
+5.
 
 <img src="blob:chrome-untrusted://media-app/b917f22e-bff9-4b62-8c69-38907699fdf5" alt="Screenshot 2022-05-23 10.23.53 PM.png"/>![image](https://user-images.githubusercontent.com/94450478/169908375-9bc0a961-ff54-4637-b731-e947de44d70c.png)
