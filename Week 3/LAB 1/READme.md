@@ -44,6 +44,14 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_users-self-manage-mfa-
 4. IAM Group with EC2 full access
 
 <img src="blob:chrome-untrusted://media-app/d9a87f48-3170-46c6-aea5-c318a0d6c48a" alt="Screenshot 2022-05-23 9.57.53 PM.png"/>![image](https://user-images.githubusercontent.com/94450478/169905104-1abc2794-ab1e-4d90-b960-2ca63ccef6a7.png)
-5.
+5.  <img src="blob:chrome-untrusted://media-app/b917f22e-bff9-4b62-8c69-38907699fdf5" alt="Screenshot 2022-05-23 10.23.53 PM.png"/>![image](https://user-images.githubusercontent.com/94450478/169908375-9bc0a961-ff54-4637-b731-e947de44d70c.png)
 
-<img src="blob:chrome-untrusted://media-app/b917f22e-bff9-4b62-8c69-38907699fdf5" alt="Screenshot 2022-05-23 10.23.53 PM.png"/>![image](https://user-images.githubusercontent.com/94450478/169908375-9bc0a961-ff54-4637-b731-e947de44d70c.png)
+<img src="blob:chrome-untrusted://media-app/deef3523-1426-4c2a-9f18-ab14791b8206" alt="Screenshot 2022-05-24 8.35.13 PM.png"/>![image](https://user-images.githubusercontent.com/94450478/170122943-01da6a15-b827-4cb2-9995-6b2dee0af0c9.png)
+
+6. <img src="blob:chrome-untrusted://media-app/c4b94ee2-c236-4e1e-999f-54018dab756b" alt="Screenshot 2022-05-24 9.01.08 PM.png"/>![image](https://user-images.githubusercontent.com/94450478/170123116-ce014ebb-ad27-48d8-907d-746b743b0c66.png)
+
+<img src="blob:chrome-untrusted://media-app/9a625475-3bb5-49b5-bac1-9612ef41f84b" alt="Screenshot 2022-05-24 9.01.59 PM.png"/>![image](https://user-images.githubusercontent.com/94450478/170123190-3657b328-9722-4b57-8412-6e927606a41a.png)
+
+7. Clean up
+<img src="blob:chrome-untrusted://media-app/63fd6192-2b2f-4ffa-a334-6e92c72891aa" alt="Screenshot 2022-05-24 9.15.38 PM.png"/>![image](https://user-images.githubusercontent.com/94450478/170124242-2d791d5c-d1ca-4622-8325-f1b351b1e35b.png)
+
