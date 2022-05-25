@@ -14,3 +14,4 @@ NB: You need to launch at least two instances to do this.
 Guide
 https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/load-balancer-getting-started.html
 
+An ELB- Elastic Load Balancer automatically distributes incoming application traffic across multiple targets and virtual appliances in one or more Availability Zones (AZs).
